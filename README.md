@@ -64,8 +64,36 @@ GROQ_API_KEY=xxx
 
 ## 🎥 Demo Video
 
-<video src="assets/GenAIVideo.mov" controls="controls" style="max-width: 730px;">
-</video>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Ebws-i91cYw">
+    <div style="
+      position: relative;
+      width: 100%;
+      max-width: 600px;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="https://img.youtube.com/vi/Ebws-i91cYw/maxresdefault.jpg" alt="Video Title" style="width: 100%; display: block;">
+      <div style="
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.2);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background 0.3s;">
+        <svg height="68" width="68" style="opacity: 0.9;">
+          <circle cx="34" cy="34" r="32" fill="#ff0000"/>
+          <polygon points="26,22 26,46 48,34" fill="white"/>
+        </svg>
+      </div>
+    </div>
+  </a>
+</div>
+
 
 ## 📁 Project Structure
 ```
