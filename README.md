@@ -62,9 +62,10 @@ GOOGLE_API_KEY=xxx
 GROQ_API_KEY=xxx
 ```
 
-## 🎥 Demo
+## 🎥 Demo Video
 
-![Demo](https://github.com/RaghavMangla/Gen-AI/assets/GenAIVideo.mov)
+<video src="assets/GenAIVideo.mov" controls="controls" style="max-width: 730px;">
+</video>
 
 ## 📁 Project Structure
 ```
