@@ -10,7 +10,7 @@
 
 This repository showcases various implementations of Generative AI applications using modern frameworks and models. From job application generators to multi-RAG agents, this toolkit demonstrates the practical applications of AI in solving real-world problems.
 
-## 🎥 Demo Video <a href="https://youtu.be/5DlPT9X45VE?si=vNqer1ppehTvblbV"><img align="center" alt="Watch the Demo" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" height="38"/></a>
+## 🎥 Demo Video <a href="https://youtu.be/5DlPT9X45VE?si=n9FpyLnYD_VVo43S"><img align="center" alt="Watch the Demo" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" height="38"/></a>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Ebws-i91cYw">
