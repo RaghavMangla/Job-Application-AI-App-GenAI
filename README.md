@@ -12,11 +12,7 @@ This repository showcases various implementations of Generative AI applications 
 
 ## 🎥 Demo Video <a href="https://youtu.be/5DlPT9X45VE?si=n9FpyLnYD_VVo43S"><img align="center" alt="Watch the Demo" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" height="38"/></a>
 
-<div align="center">
-  <a href="https://youtu.be/5DlPT9X45VE?si=0lq59NXq3d9XQWex">
-    <img src="https://img.youtube.com/vi/Ebws-i91cYw/maxresdefault.jpg" alt="Watch the video" style="width:100%; max-width:600px; border-radius:10px;" />
-  </a>
-</div>
+[![Application Form Offcampus - Content Generator Demo](https://img.youtube.com/vi/5DlPT9X45VE/maxresdefault.jpg)](https://youtu.be/5DlPT9X45VE?si=n9FpyLnYD_VVo43S)
 
 ## ✨ Key Features
 
